@@ -1,4 +1,4 @@
-<h1> Customers Segmentation (Kaggle) - ML Python Project</h1>
+<h1>Customer Segmentation using Machine Learning in Python on Kaggle</h1>
 <br>
 <h2>Features</h2>
 <ul>
