@@ -14,8 +14,6 @@
     <li>silhouette_score 0.55, above 0.50 is good clustering</li>
 </ul>
 
-
-<b> Kaggle: https://www.kaggle.com/datasets/yasserh/customer-segmentation-dataset</b>
 <br>
 
 <h2>Photo</h2>
